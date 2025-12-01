@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "U R",
+  "base_artist": "TAEYEON",
+  "createdAt": "2025-12-01T12:43:28.875025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T (Clean)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/01_U.R.A.Q.T_(Clean)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T. (DJ C Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/02_U.R.A.Q.T._(DJ_C_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T (Roll Deep Remix)",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/03_U.R.A.Q.T_(Roll_Deep_Remix)_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T.",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/04_U.R.A.Q.T._M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where Ever U R",
+      "artist": "Mndsgn",
+      "has_synced": false,
+      "path": "select/05_Where_Ever_U_R_Mndsgn.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "U R Always",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/06_U_R_Always_Chicane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "B.L.U.R.E.M.I",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/07_B.L.U.R.E.M.I_Blur.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Part-Time Lover (E.U.R.O. mix)",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/08_Part-Time_Lover_(E.U.R.O._mix)_Double_You.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "U R The Best Thing - Sasha Full Mix",
+      "artist": "D:Ream",
+      "has_synced": false,
+      "path": "select/09_U_R_The_Best_Thing_-_Sasha_Full_Mix_D_Ream.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Are U - R&B Mix",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/10_Where_Are_U_-_R&B_Mix_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If U R Who U Say U R",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/11_If_U_R_Who_U_Say_U_R_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "U R On My Mind",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/12_U_R_On_My_Mind_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything U R",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/13_Everything_U_R_TNT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "O.U.R.",
+      "artist": "Jack Stauber",
+      "has_synced": true,
+      "path": "select/14_O.U.R._Jack_Stauber.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "U.R.A Fever",
+      "artist": "The Kills",
+      "has_synced": true,
+      "path": "select/15_U.R.A_Fever_The_Kills.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "U R The One",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/16_U_R_The_One_Usher.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "a p p l y i n g . p r e s s u r e",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/17_a_p_p_l_y_i_n_g_._p_r_e_s_s_u_r_e_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "U R So F****d",
+      "artist": "Infected Mushroom",
+      "has_synced": false,
+      "path": "select/18_U_R_So_F_d_Infected_Mushroom.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "B.S.U.R.",
+      "artist": "James Taylor",
+      "has_synced": false,
+      "path": "select/19_B.S.U.R._James_Taylor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Urban Mermaid",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_01_Urban_Mermaid_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ura Omote",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_02_Ura_Omote_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Urban Disco",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_03_Urban_Disco_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Uri Sarang",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_04_Uri_Sarang_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Urban Sweet",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_05_Urban_Sweet_伊藤_由奈.txt"
+    }
+  ]
+}
